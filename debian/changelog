@@ -1,3 +1,9 @@
+base-files (9.9+gr9u1) stable; urgency=medium
+
+  * Rebrand from Debian to Grapes
+
+ -- Cedric Hombourger <chombourger@gmail.com>  Thu, 28 Dec 2017 16:19:30 +0100
+
 base-files (9.9+deb9u3) stretch; urgency=medium
 
   * Change /etc/debian_version to 9.3, for Debian 9.3 point release.

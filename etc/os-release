@@ -1,8 +1,8 @@
-PRETTY_NAME="Debian #OSNAME# 9 (stretch)"
-NAME="Debian #OSNAME#"
-VERSION_ID="9"
-VERSION="9 (stretch)"
-ID=debian
-HOME_URL="https://www.debian.org/"
-SUPPORT_URL="https://www.debian.org/support"
-BUG_REPORT_URL="https://bugs.debian.org/"
+PRETTY_NAME="Grapes #OSNAME# 2018 (amarone)"
+NAME="Grapes #OSNAME#"
+VERSION_ID="2018"
+VERSION="2018 (amarone)"
+ID=grapes
+HOME_URL="https://www.linux-grapes.org/"
+SUPPORT_URL="https://www.linux-grapes.org/support"
+BUG_REPORT_URL="https://bugs.linux-grapes.org/"
